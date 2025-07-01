@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kael ZRM
+# 👋 Olá, eu sou o KaelZRM
 
 💻 Estudante de programação, apaixonado por lógica e criatividade.  
 👨‍🔧 Aprendendo C, C#, C++, Python e Web (HTML/CSS).  
@@ -22,7 +22,7 @@
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/KaelZRM)  
-- 📧 seuemail@exemplo.com
+- 📧 montes-10@outlook.com
 
 ---
 
