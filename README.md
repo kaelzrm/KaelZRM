@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kael ZRM
 
-<!--
-**kaelzrm/KaelZRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação, apaixonado por lógica e criatividade.  
+👨‍🔧 Aprendendo C, C#, C++, Python e Web (HTML/CSS).  
+🚀 Evoluindo e aplicando o que aprendo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que estou estudando
+- C, C#, C++
+- Python
+- HTML & CSS
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+![Kael ZRM GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelzrm&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/kaelzrm)  
+- 📧 montes-10@outlook.com
+
+---
+
+✨ Obrigado por visitar meu perfil! Vamos codar juntos. 🚀
