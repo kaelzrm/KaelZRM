@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kael ZRM
+![Banner com nome](link-da-imagem-aqui)
 
 💻 Estudante de programação, apaixonado por lógica e criatividade.  
 👨‍🔧 Aprendendo C, C#, C++, Python e Web (HTML/CSS).  
