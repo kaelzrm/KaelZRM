@@ -9,7 +9,7 @@
 ## 🛠 Tecnologias que estou estudando
 - C, C# e C++
 - Python
-- HTML & CSS
+- HTML, CSS & Java Script
 
 ---
 
