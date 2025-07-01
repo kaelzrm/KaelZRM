@@ -1,4 +1,4 @@
-![Banner com nome](link-da-imagem-aqui)
+# 👋 Olá, eu sou o Kael ZRM
 
 💻 Estudante de programação, apaixonado por lógica e criatividade.  
 👨‍🔧 Aprendendo C, C#, C++, Python e Web (HTML/CSS).  
@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tecnologias que estou estudando
-- C, C#, C++
+- C, C# e C++
 - Python
 - HTML & CSS
 
@@ -21,8 +21,8 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/kaelzrm)  
-- 📧 montes-10@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/KaelZRM)  
+- 📧 seuemail@exemplo.com
 
 ---
 
